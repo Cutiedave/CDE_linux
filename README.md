@@ -13,4 +13,7 @@ This repository contains the ETL process, data movement scripts, and SQL queries
 - `question_1.sql`: SQL script to find order IDs with specific conditions.
 - `question_2.sql`: SQL script to return orders with `standard_qty` zero and specific conditions.
 - `question_3.sql`: SQL script to find companies with names starting with 'C' or 'W' and matching conditions in the primary contact.
-- `question_4.sql`: SQL script to provide a table showing the region, sales rep, and associated accounts.
+
+### ARCHITECTURE
+![Arch](https://github.com/user-attachments/assets/8eb29c7b-aa0f-4111-ad3e-6b6868e83c2f)
+
