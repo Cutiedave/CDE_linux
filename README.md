@@ -14,4 +14,5 @@ This repository contains the ETL process, data movement scripts, and SQL queries
 - `question_2.sql`: SQL script to return orders with `standard_qty` zero and specific conditions.
 - `question_3.sql`: SQL script to find companies with names starting with 'C' or 'W' and matching conditions in the primary contact.
 
-![alt text](https://github.com/Cutiedave/CDE_linux/edit/assignment/Arch.jpg?raw=true)
+![Arch](https://github.com/user-attachments/assets/8eb29c7b-aa0f-4111-ad3e-6b6868e83c2f)
+
